@@ -9,7 +9,7 @@
 	-->
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.thoughtworks.xstream</groupId>
-	<artifactId>xstream</artifactId>
+	<artifactId>xstream-for-android</artifactId>
 	<packaging>jar</packaging>
 	<name>XStream Core</name>
 	<version>1.0.0</version>
