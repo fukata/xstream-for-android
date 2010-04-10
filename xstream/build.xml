@@ -134,7 +134,7 @@
     </target>
 
     <target name="jar" depends="compile">
-        <jar jarfile="${build.dir}/android_xstream-${version}.jar">
+        <jar jarfile="${build.dir}/xstream-for-android-${version}.jar">
             <fileset dir="${java.build.dir}"/>
         </jar>
         <antcall target="jdk-check"/>
